@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Akshit',
     author_email='akshitprajapati24@gmail.com',
-    url='https://github.com/akshit0942b/aircommand',
+    url='https://github.com/akshit0942b/air-gesture-command',
     packages=find_packages(),
     install_requires=[
         'opencv-python',
