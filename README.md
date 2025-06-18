@@ -3,12 +3,12 @@
 Control media playback on your Mac using real-time air gestures captured via your webcam.
 This Python-based tool leverages OpenCV, MediaPipe, and PyAutoGUI to recognize hand gestures and map them to media player commands like play/pause, volume control, and seeking.
 
-📦 Installation
-pip install air-gesture-command
+📦 Installation:
+'pip install air-gesture-command'
 
 🚀 Usage
 Once installed, simply run:
-air-command
+'air-command'
 Make sure your webcam is connected and active. The program will launch a window displaying your hand gestures in real time.
 To exit, press the ctrl+c combo key.
 
