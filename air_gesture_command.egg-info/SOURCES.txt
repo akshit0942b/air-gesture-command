@@ -1,5 +1,9 @@
+MANIFEST.in
 README.md
+pyproject.toml
+requirements.txt
 setup.py
+LICENSE/LICENSE.txt
 air_command/__init__.py
 air_command/main.py
 air_gesture_command.egg-info/PKG-INFO
